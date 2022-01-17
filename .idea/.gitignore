@@ -9,3 +9,10 @@
 /out/
 .class
 .iml
+/misc.xml
+/uiDesigner.xml
+/runConfigurations.xml
+/modules.xml
+/CheatSheet.iml
+/vcs.xml
+/KotlinJavaRuntime.xml
